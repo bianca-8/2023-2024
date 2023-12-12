@@ -1,8 +1,12 @@
 # 2023-2024
-Projects done for fun.
+Projects done for fun!!
 
+**Games**
 - Unity Escape the School Game
-- Visual Studio Code
+
+**Competitions**
+- Advent of Code
+- USACO
 
 **Future Ideas:**
 Shhhh it's a secret...

@@ -7,6 +7,7 @@ Projects done for fun!!
 **Competitions**
 - Advent of Code
 - USACO
+- Dual Olympiad
 
 **Future Ideas:**
 Shhhh it's a secret...

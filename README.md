@@ -8,6 +8,3 @@ Projects done for fun!!
 - Advent of Code
 - USACO
 - Dual Olympiad
-
-**Future Ideas:**
-Shhhh it's a secret...
